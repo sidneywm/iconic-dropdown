@@ -8,7 +8,7 @@
   <img src="./assets/iconic-dropdown.png">
 </p>
 
-### [Try live demo](https://sidneywm.github.io/iconic-dropdown/)
+### :rocket: [Try live demo](https://sidneywm.github.io/iconic-dropdown/)
 
 ## Getting Started
 
