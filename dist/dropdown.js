@@ -48,7 +48,7 @@ var IconicDropdown = function () {
 
     _defineProperty(this, "domElements", void 0);
 
-    _defineProperty(this, "event", void 0);
+    _defineProperty(this, "event", function () {});
 
     _defineProperty(this, "noResults", void 0);
 

@@ -44,7 +44,7 @@ class IconicDropdown {
   customCss;
   data;
   domElements;
-  event;
+  event = () => {};
   noResults;
   options;
   placeholder;
